@@ -1,0 +1,4 @@
+依赖模块：
+    os,sys (python自带，不同再安装)
+    xlrd 需要手动安装装，用来读取excel表格
+    xlsxwriter 需要手动安装，用来写数据进excel表格
